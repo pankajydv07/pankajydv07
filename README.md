@@ -11,8 +11,13 @@
   
   <div style="margin-left: 200px;">
     <h3>Summary</h3>
-    <p>Full-stack developer passionate about AI and building user-centric, scalable applications.</p>
-    <img src="https://komarev.com/ghpvc/?username=pankajydv07&style=flat-square&color=blue" alt="Profile Views"/>
+    <pre>Hi, I'm Pankaj! 👋
+I'm a Full-Stack Web Developer with a passion for AI . I love building intelligent, secure,
+and scalable applicationsthat solve real-world problems. Always exploring new technologies, 
+contributing to open-source, and collaborating with like-minded developers.
+
+Let's connect, learn, and build together!</pre>
+    
   </div>
 </div>
 
@@ -114,3 +119,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+<h1>👀
+  <img src="https://komarev.com/ghpvc/?username=pankajydv07&style=flat&color=blue">
+</h1>
