@@ -88,6 +88,12 @@ Let's connect, learn, and build together!</pre>
 
 ---
 
+## OpenSource Contributions
+
+[![An image of @pankajydv07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pankajydv07)](https://holopin.io/@pankajydv07)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
